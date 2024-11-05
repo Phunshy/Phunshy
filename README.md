@@ -6,7 +6,7 @@
 -  📫 Get in Touch
 - 📧 Email: [adeniyiolufunso@gmail.com]
   📊 My GitHub Stats
-    https://github-readme-stats.vercel.app/api?username=Phunshy&show_icons=true&theme=radical
+    https://github-readme-stats.vercel.app/api?Phunshy=Phunshy&show_icons=true&theme=radical
 Thank you for visiting my profile! 😊
 
 <!---
